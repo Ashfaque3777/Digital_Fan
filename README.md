@@ -40,7 +40,7 @@
 
 ## Live Demo
 
-You can view the live demo of the project [here]().
+You can view the live demo of the project [here](https://digital-fan-197786.netlify.app).
 
 ## Contributing
 
