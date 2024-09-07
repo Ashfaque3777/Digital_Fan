@@ -19,13 +19,13 @@
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/digital-fan.git
+   git clone https://github.com/Ashfaque3777/Digital_Fan.git
    ```
 
 2. **Navigate into the Project Directory**:
 
    ```bash
-   cd digital-fan
+   cd Digital_Fan
    ```
 
 3. **Open `index.html`** in your preferred web browser:
@@ -42,6 +42,16 @@
 
 You can view the live demo of the project [here](https://digital-fan-197786.netlify.app).
 
+## Future Enhancements
+
+Here are some ideas for future improvements:
+
+- **Fan Color Themes**: Allow users to select different colors for the fan blades and background.
+- **Variable Blade Count**: Add an option to change the number of blades on the fan.
+- **Sound Effects**: Include sound to mimic the experience of a real fan, such as increasing sound with speed.
+- **Custom Speed Input**: Let users input a custom speed for more control over the fan’s rotation.
+- **Mobile Gestures**: Add support for touch gestures on mobile devices to control the speed or start/stop the fan.
+
 ## Contributing
 
 Contributions are welcome! If you’d like to contribute to the **Digital Fan** project, please follow these steps:
@@ -50,7 +60,7 @@ Contributions are welcome! If you’d like to contribute to the **Digital Fan** 
 2. **Clone Your Fork**:
 
    ```bash
-   git clone https://github.com/your-username/digital-fan.git
+   git clone https://github.com/Ashfaque3777/Digital_Fan.git
    ```
 
 3. **Create a New Branch**:
